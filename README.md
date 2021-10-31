@@ -1,5 +1,5 @@
 # Token Grabber
-* A simple Discord token grabber with base54 webhook encoding, it uses pastebin as a database to get webhook, so next time u dont get your webhooks deleted or spammed.
+* A simple Discord token grabber with base64 webhook encoding, it uses pastebin as a database to get webhook, so next time u dont get your webhooks deleted or spammed.
 * The grabber code is not mine, Credits to it's owner.
 
 # How to use
